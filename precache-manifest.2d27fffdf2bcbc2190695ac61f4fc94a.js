@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5e0d5abd8d691d811b011e7e8a4c2fa",
+    "revision": "8c26f326acb8b3097938dc92acbef45d",
     "url": "/Zeeshan-Web-Developer/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Zeeshan-Web-Developer/static/css/2.dcb3bbc9.chunk.css"
   },
   {
-    "revision": "5898a0954cf01ef050c4",
-    "url": "/Zeeshan-Web-Developer/static/css/main.f903d5c7.chunk.css"
+    "revision": "95b27014808f9cdde4f2",
+    "url": "/Zeeshan-Web-Developer/static/css/main.ff84bc42.chunk.css"
   },
   {
     "revision": "fe0375905b66af33ee00",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Zeeshan-Web-Developer/static/js/2.e64bb3fd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5898a0954cf01ef050c4",
-    "url": "/Zeeshan-Web-Developer/static/js/main.9887a903.chunk.js"
+    "revision": "95b27014808f9cdde4f2",
+    "url": "/Zeeshan-Web-Developer/static/js/main.e1fbb21c.chunk.js"
   },
   {
     "revision": "bb55081beab640334a5c",
