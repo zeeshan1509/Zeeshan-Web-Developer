@@ -118,7 +118,7 @@ const Header = ({onRouteChange}) =>{
 	 				<li><a  href="https://twitter.com/zeerabbani15"
 	 				 target="_blank" rel="noopener noreferrer"><i className="fa fa-twitter" aria-hidden="true"> </i> </a> </li>
 	 				<li><a href="https://github.com/zeeshan1509"
-	 				 target="_blank" rel="noopener noreferrer"><i className="fa fa-github" aria-hidden="true"> </i></a> </li>
+	 				target="_blank" rel="noopener noreferrer"><i className="fa fa-github" aria-hidden="true"> </i> </a> </li>
 	 				<li><a href="https://www.linkedin.com/in/zeeshan-rabbani-7240ab180"
 	 				 target="_blank" rel="noopener noreferrer"> <i className="fa fa-linkedin" aria-hidden="true"></i></a> </li>
 	 				

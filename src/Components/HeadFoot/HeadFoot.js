@@ -6,7 +6,7 @@ const HeadFoot=({onRouteChange}) => {
 		<div>
 		<link rel="stylesheet"  href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 			
-			<nav className="zone blue sticky">
+			<nav className="zone blue sticky z-max">
 		  		<ul className="main-nav">
 			  		<li><i onClick={() => onRouteChange('home')} >Home</i></li>
 			  		<li><i onClick={() => onRouteChange('portfolio')} >Portfolio</i></li>
