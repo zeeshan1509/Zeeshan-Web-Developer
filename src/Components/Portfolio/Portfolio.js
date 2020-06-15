@@ -22,7 +22,7 @@ const Portfolio =({onRouteChange}) =>{
 							
 					    </div>
 							<button className="btn btn4"><a  href="https://zeeshan1509.github.io/background-generator/"
-							style={{color: "white"}} target="_blank">See live</a></button>					  
+							style={{color: "white"}} target="_blank" rel="noopener noreferrer" >See live</a></button>					  
 					  </div>
 				</article>
 
