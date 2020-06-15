@@ -1,0 +1,82 @@
+body{
+    font-family: "Bubblegum Sans";  
+    margin: auto 0;
+    border-width: solid black;
+    padding: 0;
+     background-color: #F4E9C8;
+
+    
+
+}
+
+/*NAVIGATION*/
+
+.zone {
+    
+    cursor:pointer;
+    /*display:inline-block; */
+    color:#FFF;
+    font-size:2em;
+    border-radius:4px;
+    border:1px solid #bbb;
+    transition: all 0.3s linear;
+}
+
+.zone:hover {
+    -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+}
+
+
+.main-nav{
+
+    display: flex;
+    list-style: none;
+    font-size: 30px;
+    margin: 0;
+
+}
+@media only screen and (max-width: 600px){
+
+
+    .main-nav{
+        font-size: 15px;
+        padding: 0;
+}
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+     width: 100%;
+    
+
+}
+
+
+.push{
+    margin-left: auto; 
+}
+
+li{
+
+    padding: 20px;
+
+}
+i{
+    color: #f5f5f6;
+    text-decoration: none;
+}
+
+.blue{
+    background: tan; /*#7abcff;*/ /* Old browsers */
+
+        
+}
+
+
+
+/*FOOTER*/
+

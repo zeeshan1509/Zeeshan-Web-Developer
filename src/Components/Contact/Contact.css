@@ -1,0 +1,85 @@
+body{
+    font-family: "Bubblegum Sans";  
+    margin: auto 0;
+    border-width: solid black;
+    padding: 0;
+    background: linear-gradient(to left, #F4E9C8 0%, #B4AD98 100%);
+
+}
+
+.back{
+ 	background: linear-gradient(to left, #F4E9C8 0%, #B4AD98 100%);
+}
+.a{
+  color:white;
+}
+.d{
+	resize:none;
+	border-color: white;
+}
+.v{
+	display: inline;
+}
+.widr{
+	height:30px;
+}
+
+.zee{
+    position: relative;
+    margin-top:50px;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+}
+
+/*BUTTON*/
+
+.btn{
+
+  border: 1px solid #5c5a58;
+  background: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-family: "montserrat";
+  cursor: pointer;
+  margin: 40px;
+  transition: 0.8s;
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.btn4{
+  color: #fff;
+  font-family: Spinnaker;
+  text-shadow: 2px 2px black;
+  font-size: 4vh;
+  text-decoration: none;
+}
+
+.btn4:hover{
+  color: #5c5a58;
+}
+.btn::before{
+  content: "";
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 0%;
+  background: #5c5a58;
+  z-index: -1;
+  transition: 0.8s;
+}
+
+.btn4::before{
+  bottom: 0;
+  border-radius: 50% 50% 0 0;
+}
+.btn4::before{
+  height: 180%;
+}
+
+.btn4:hover::before{
+  height: 0%;
+}
