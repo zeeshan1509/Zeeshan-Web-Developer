@@ -24,10 +24,12 @@ const Services =({onRouteChange}) =>{
 
 					    </div>
 					    <p className="f5 lh-copy measure mt2 mid-gray">
-					      We work with applications written in React.
-					       We work with JavaScript development: bootstraping, refactoring, improving the structure,
-					       reliability, build setup. Our layouts will work on any device, big or small.
-					        Strong preference for easy to use, intuitive UX/UI.
+					      Web designing goes hand-in-hand with the web development in the creation of static website.
+					      We work with JavaScript development that includes bootstraping,refactoring,
+					      reliability and building setups.
+					      The process involves HTML for handling the  ‘bones’ of your page while 
+					      CSS for steering the style and appearance.
+					      Strongly preferred,when looking for easy to use and untroublesome UX/UI.
 					    </p>
 					  </div>
 				</article>
@@ -41,11 +43,12 @@ const Services =({onRouteChange}) =>{
 
 					    </div>
 					    <p className="f5 lh-copy measure mt2 mid-gray">
-					     On the backend we work with Node JS. We can work with with APIs, remote data synchronizations,
-					      cloud servers, asynchronous workers. We different types of databases 
-					      (like PostgreSQL, MySQL, Redis). We write unit and system tests using JEST.
-					       We offer Fast load times and lag free interaction.
-					        
+							It is basically the creation of dynamic web applications.
+							The process includes working with APIs, remote data synchronizations, 
+							cloud servers, asynchronous workers.On the backend we work
+							 with Node JS.We have used contrasting types of databases  
+							i.e PostgreSQL, MySQL, Redis.Our interface offers fast load 
+							times,speedy websites and lag free interaction.
 					    </p>
 					  </div>
 				</article>
@@ -60,9 +63,10 @@ const Services =({onRouteChange}) =>{
 
 					    </div>
 					    <p className="f5 lh-copy measure mt4 mid-gray">
-					       	We also work with autocad to present your work imagination with calculated and
-					      	specific measurements. We develop applications using autoCAD 
-					      	in both 2D and 3D formats.
+					       	We provide our customers with flexible development platform for specialised 
+					       	design and drafting applications.We permute your imaginative work into 2D
+					       	 and 3D formats by utilising calculated and specific measurements.
+					       	 We develop 3D and 2D applications based on our customers’ requirements.
 					    </p>
 					  </div>
 				</article>

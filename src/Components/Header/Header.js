@@ -25,10 +25,11 @@ const Header = ({onRouteChange}) =>{
 					<h1>
 						Zeeshan Rabbani Web Developer & Designer
 					</h1>
-					<p>Hii, I'm a fullstack Developer located in Tarbella, Pakistan,
-					I am a University Student looking to take on more work and to increase my Skills
-					as a Web Developer. <br/> "in a sea of ordinary, make sure your website set 
-					apart from the competition.
+					<p>HOLA!!Here’s presented the full stack developer based in Tarbela,Pakistan.
+					I’m a university student working to enhance my skills and thriving as a Web developer.
+					I design engaging and intuitive user interface for the web.
+					 <br/> "in a sea of ordinary, make sure your website set 
+					apart from the competition"
 				    </p>
 			<div>
 
@@ -59,8 +60,9 @@ const Header = ({onRouteChange}) =>{
 				<h3>
 					CSS Styling
 				</h3>
-				<p>We use CSS3 for styling it describes how HTML elements are to be displayed on screen or in other media.
-				It can control the layout of multiple web pages all at once.</p>
+				<p>We use CSS3 for styling it describes how HTML elements are to be displayed on 
+				screen or in other media.
+				</p>
 
 			</div>
 			<div className="box">

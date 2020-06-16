@@ -2,12 +2,13 @@
   "name": "folio",
   "version": "0.1.0",
   "private": true,
-   "homepage": "https://zeeshan1509.github.io/Zeeshan-Web-Developer/",
+  "homepage": "https://zeeshan1509.github.io/Zeeshan-Web-Developer/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "emailjs-com": "^2.4.1",
+    "gh-pages": "^3.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
@@ -21,7 +22,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -39,4 +39,3 @@
     ]
   }
 }
-
